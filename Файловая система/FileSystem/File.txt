@@ -1,0 +1,6 @@
+vika
+rwx
+alex
+r--
+max
+---
